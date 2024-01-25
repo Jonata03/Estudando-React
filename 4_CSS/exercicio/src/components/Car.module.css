@@ -1,0 +1,15 @@
+p{
+    background-color: rgb(156, 90, 5);
+    border: 4px solid rgb(244, 111, 2);
+
+}
+
+.car_color{
+    background-color: rgb(103, 103, 103);
+    border: 4px solid rgb(188, 0, 0);
+    
+}
+body{
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
