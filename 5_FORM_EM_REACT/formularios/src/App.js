@@ -5,7 +5,8 @@ import MyForms from './components/MyForms';
 function App() {
   return (
     <div className="App">
-      <MyForms/>          
+      <h1>Forms</h1>
+      <MyForms/>        
     </div>
   );
 }
