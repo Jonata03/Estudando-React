@@ -8,6 +8,6 @@ const GameOver = ({retry, score}) => {
             <button onClick={retry}>Recomeçar o jogo</button>
         </div>
     )
-}
+} 
 
 export default GameOver
