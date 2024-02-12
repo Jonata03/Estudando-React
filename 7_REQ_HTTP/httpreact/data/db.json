@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "nome": "Servidor de Banco de Dados",
+      "preco": 5000
+    },
+    {
+      "id": "2",
+      "nome": "Licença de Software de Banco de Dados",
+      "preco": 1200
+    },
+    {
+      "id": "3",
+      "nome": "Backup Automático",
+      "preco": 300.5
+    },
+    {
+      "id": "8662",
+      "nome": "Inglês ",
+      "preco": "10"
+    },
+    {
+      "id": "50a8",
+      "nome": "banco ",
+      "preco": "100000"
+    }
+  ]
+}
